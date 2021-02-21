@@ -1,0 +1,10 @@
+C:\Users\onatc\source\repos\SesliSessizForms\SesliSessizForms\bin\Debug\SesliSessizForms.exe.config
+C:\Users\onatc\source\repos\SesliSessizForms\SesliSessizForms\bin\Debug\SesliSessizForms.exe
+C:\Users\onatc\source\repos\SesliSessizForms\SesliSessizForms\bin\Debug\SesliSessizForms.pdb
+C:\Users\onatc\source\repos\SesliSessizForms\SesliSessizForms\obj\Debug\SesliSessizForms.csprojAssemblyReference.cache
+C:\Users\onatc\source\repos\SesliSessizForms\SesliSessizForms\obj\Debug\SesliSessizForms.Form1.resources
+C:\Users\onatc\source\repos\SesliSessizForms\SesliSessizForms\obj\Debug\SesliSessizForms.Properties.Resources.resources
+C:\Users\onatc\source\repos\SesliSessizForms\SesliSessizForms\obj\Debug\SesliSessizForms.csproj.GenerateResource.cache
+C:\Users\onatc\source\repos\SesliSessizForms\SesliSessizForms\obj\Debug\SesliSessizForms.csproj.CoreCompileInputs.cache
+C:\Users\onatc\source\repos\SesliSessizForms\SesliSessizForms\obj\Debug\SesliSessizForms.exe
+C:\Users\onatc\source\repos\SesliSessizForms\SesliSessizForms\obj\Debug\SesliSessizForms.pdb
